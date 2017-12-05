@@ -1,0 +1,11 @@
+{
+  "name": "vorbis-wasm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "petamoriken <moriken@kimamass.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "webassembly": "^0.11.0"
+  }
+}
